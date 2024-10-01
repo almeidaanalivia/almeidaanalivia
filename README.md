@@ -7,7 +7,7 @@
 - ⚡ Fun fact: - I started to be interested in technology after I started working with data;
      - In my spare time I like listening to music, watching videos and watching animations.
  
-       ![_](c="https://tenor.com/embed.js"></script>)
+       ![_](<="https://tenor.com/view/okada-nana-akb48-gif-22143349")
 
 <!---
 almeidaanalivia/almeidaanalivia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
