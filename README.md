@@ -7,7 +7,7 @@
 - ⚡ Fun fact: - I started to be interested in technology after I started working with data;
      - In my spare time I like listening to music, watching videos and watching animations.
  
-      [ ![_](https://tenor.com/pt-BR/view/sulli-wave-dojauchistwt-gif-22270494)
+      ![descrição do GIF](<div class="tenor-gif-embed" data-postid="22270494" data-share-method="host" data-aspect-ratio="0.978125" data-width="100%"><a href="https://tenor.com/view/sulli-wave-dojauchistwt-gif-22270494">Sulli Wave GIF</a>from <a href="https://tenor.com/search/sulli-gifs">Sulli GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 <!---
 almeidaanalivia/almeidaanalivia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
