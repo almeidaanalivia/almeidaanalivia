@@ -7,7 +7,8 @@
 - ⚡ Fun fact: - I started to be interested in technology after I started working with data;
      - In my spare time I like listening to music, watching videos and watching animations.
      
-     ![Sulli Wave GIF](https://media1.tenor.com/images/9PL-4yuw6nYAAAAC/sulli-wave.gif)
+    ![Sulli Wave GIF](https://i.gifer.com/FJOc.gif)
+
       
 
 <!---
